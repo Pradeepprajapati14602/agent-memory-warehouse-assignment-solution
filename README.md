@@ -449,5 +449,9 @@ For issues and questions:
 ---
 
 Built with ❤️ using Next.js, Prisma, and Gemini AI
-#   T o t e m - I n t e r a c t i v e  
+#   T o t e m - I n t e r a c t i v e 
  
+ 
+
+
+![alt text](diagram-export-11-13-2025-1_37_23-AM.png)
